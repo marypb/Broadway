@@ -3,14 +3,24 @@ body {
   text-align: center;
 }
 
+#intro {
+  background-image: url("C:/Users/Mary/test/git_practice/marypb.github.io/Broadway/Resources/images/the-flatiron-building(1).png");
+}
+
 h1 {
   font-size:  70px;
   font-weight: bold;
+  color: white;
 }
 
 h2 {
   font-size: 32px;
   font-weight: bold;
+}
+
+#background {
+  background-image: url("C:/Users/Mary/test/git_practice/marypb.github.io/Broadway/Resources/images/the-flatiron-building(1).png");
+  color: white;
 }
 
 h3 {
