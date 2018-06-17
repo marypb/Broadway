@@ -3,13 +3,17 @@ body {
   text-align: center;
 }
 
-#intro {
+.test {
   background-image: url("C:/Users/Mary/test/git_practice/marypb.github.io/Broadway/Resources/images/the-flatiron-building(1).png");
 }
 
 h1 {
   font-size:  70px;
   font-weight: bold;
+  color: white;
+  }
+
+li.firstlist {
   color: white;
 }
 
@@ -18,7 +22,7 @@ h2 {
   font-weight: bold;
 }
 
-#background {
+.designed {
   background-image: url("C:/Users/Mary/test/git_practice/marypb.github.io/Broadway/Resources/images/the-flatiron-building(1).png");
   color: white;
 }
@@ -30,10 +34,8 @@ h3 {
 
 p {font-size: 14px;}
 
-#footer {
+.footer {
   text-align: left;
   background-color: dimgray;
   font-size: 11px;
   color: white;
-
-}
