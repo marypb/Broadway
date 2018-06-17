@@ -30,27 +30,10 @@ h3 {
 
 p {font-size: 14px;}
 
-footer {text-align: center;}
+#footer {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    text-align: center;
-    padding: 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111111;
 }
