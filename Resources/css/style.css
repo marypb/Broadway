@@ -4,7 +4,8 @@ body {
 }
 
 .test {
-  background-image: url("C:/Users/Mary/test/git_practice/marypb.github.io/Broadway/Resources/images/the-flatiron-building(1).png");}
+  background-image: url("C:/Users/Mary/test/git_practice/marypb.github.io/Broadway/Resources/images/the-flatiron-building(1).png");
+}
 
 
 h1 {
@@ -39,9 +40,10 @@ p {font-size: 14px;}
 
 .footer {
   text-align: left;
-  background-color: dimgray;
   font-size: 11px;
-  color: blue;
+  color: white;
 }
 
-.second, {display:inline;}
+.second li {display: inline;}
+
+.gray {background-color: dimgray;}
