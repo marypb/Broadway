@@ -31,6 +31,7 @@ h2 {
 .designed {
   background-image: url("C:/Users/Mary/test/git_practice/marypb.github.io/Broadway/Resources/images/the-flatiron-building(1).png");
   color: white;
+  background-position: center;
 }
 
 h3 {
@@ -40,12 +41,9 @@ h3 {
 
 p {font-size: 14px;}
 
-.footer {
-  font-size: 11px;
-  color: white;
-}
-
-.second li {display: inline;}
+.second li {
+  display: inline;
+  }
 
 .gray {
   background-color: dimgray;
@@ -54,4 +52,10 @@ p {font-size: 14px;}
 
 .footer, .second {
   display: inline;
+  }
+
+.footer, .second a {
+  color: white;
+  font-size: 11px;
+  font-family: Helvetica;
   }
